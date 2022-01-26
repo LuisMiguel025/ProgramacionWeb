@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(220, 208, 228);
+  
+}
+
+.contenido{
+
+    background-color: rgb(255, 255, 255);
+    border: 5px ;
+    margin: 75px;
+    width:inherit;
+    height: 1em auto;
+    padding: 20px;
+    border-radius: 20px;
+   
+}
+
+.contenido img{
+
+    height: 270px;
+    width: 270px;
+}
